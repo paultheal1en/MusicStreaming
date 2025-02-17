@@ -1,0 +1,15 @@
+E:\NT106\finalproject\Project\NT106\KaraokeServer\bin\x64\Debug\net8.0\KaraokeServer.exe
+E:\NT106\finalproject\Project\NT106\KaraokeServer\bin\x64\Debug\net8.0\KaraokeServer.deps.json
+E:\NT106\finalproject\Project\NT106\KaraokeServer\bin\x64\Debug\net8.0\KaraokeServer.runtimeconfig.json
+E:\NT106\finalproject\Project\NT106\KaraokeServer\bin\x64\Debug\net8.0\KaraokeServer.dll
+E:\NT106\finalproject\Project\NT106\KaraokeServer\bin\x64\Debug\net8.0\KaraokeServer.pdb
+E:\NT106\finalproject\Project\NT106\KaraokeServer\obj\x64\Debug\net8.0\KaraokeServer.GeneratedMSBuildEditorConfig.editorconfig
+E:\NT106\finalproject\Project\NT106\KaraokeServer\obj\x64\Debug\net8.0\KaraokeServer.AssemblyInfoInputs.cache
+E:\NT106\finalproject\Project\NT106\KaraokeServer\obj\x64\Debug\net8.0\KaraokeServer.AssemblyInfo.cs
+E:\NT106\finalproject\Project\NT106\KaraokeServer\obj\x64\Debug\net8.0\KaraokeServer.csproj.CoreCompileInputs.cache
+E:\NT106\finalproject\Project\NT106\KaraokeServer\obj\x64\Debug\net8.0\KaraokeServer.sourcelink.json
+E:\NT106\finalproject\Project\NT106\KaraokeServer\obj\x64\Debug\net8.0\KaraokeServer.dll
+E:\NT106\finalproject\Project\NT106\KaraokeServer\obj\x64\Debug\net8.0\refint\KaraokeServer.dll
+E:\NT106\finalproject\Project\NT106\KaraokeServer\obj\x64\Debug\net8.0\KaraokeServer.pdb
+E:\NT106\finalproject\Project\NT106\KaraokeServer\obj\x64\Debug\net8.0\KaraokeServer.genruntimeconfig.cache
+E:\NT106\finalproject\Project\NT106\KaraokeServer\obj\x64\Debug\net8.0\ref\KaraokeServer.dll

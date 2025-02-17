@@ -1,0 +1,249 @@
+E:\NT106\finalproject\API Profile\Login\bin\Debug\Music.exe.config
+E:\NT106\finalproject\API Profile\Login\bin\Debug\Music.exe
+E:\NT106\finalproject\API Profile\Login\bin\Debug\Music.pdb
+E:\NT106\finalproject\API Profile\Login\bin\Debug\Bunifu.UI.WinForms.dll
+E:\NT106\finalproject\API Profile\Login\bin\Debug\CloudinaryDotNet.dll
+E:\NT106\finalproject\API Profile\Login\bin\Debug\MaterialSkin.dll
+E:\NT106\finalproject\API Profile\Login\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+E:\NT106\finalproject\API Profile\Login\bin\Debug\Microsoft.Win32.Registry.dll
+E:\NT106\finalproject\API Profile\Login\bin\Debug\NAudio.Asio.dll
+E:\NT106\finalproject\API Profile\Login\bin\Debug\NAudio.Core.dll
+E:\NT106\finalproject\API Profile\Login\bin\Debug\NAudio.dll
+E:\NT106\finalproject\API Profile\Login\bin\Debug\NAudio.Midi.dll
+E:\NT106\finalproject\API Profile\Login\bin\Debug\NAudio.Wasapi.dll
+E:\NT106\finalproject\API Profile\Login\bin\Debug\NAudio.WinForms.dll
+E:\NT106\finalproject\API Profile\Login\bin\Debug\NAudio.WinMM.dll
+E:\NT106\finalproject\API Profile\Login\bin\Debug\Newtonsoft.Json.dll
+E:\NT106\finalproject\API Profile\Login\bin\Debug\RestSharp.dll
+E:\NT106\finalproject\API Profile\Login\bin\Debug\System.Buffers.dll
+E:\NT106\finalproject\API Profile\Login\bin\Debug\System.CodeDom.dll
+E:\NT106\finalproject\API Profile\Login\bin\Debug\System.Memory.dll
+E:\NT106\finalproject\API Profile\Login\bin\Debug\System.Numerics.Vectors.dll
+E:\NT106\finalproject\API Profile\Login\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+E:\NT106\finalproject\API Profile\Login\bin\Debug\System.Security.AccessControl.dll
+E:\NT106\finalproject\API Profile\Login\bin\Debug\System.Security.Principal.Windows.dll
+E:\NT106\finalproject\API Profile\Login\bin\Debug\System.Text.Encodings.Web.dll
+E:\NT106\finalproject\API Profile\Login\bin\Debug\System.Text.Json.dll
+E:\NT106\finalproject\API Profile\Login\bin\Debug\System.Threading.Tasks.Extensions.dll
+E:\NT106\finalproject\API Profile\Login\bin\Debug\System.ValueTuple.dll
+E:\NT106\finalproject\API Profile\Login\bin\Debug\CloudinaryDotNet.xml
+E:\NT106\finalproject\API Profile\Login\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+E:\NT106\finalproject\API Profile\Login\bin\Debug\Microsoft.Win32.Registry.xml
+E:\NT106\finalproject\API Profile\Login\bin\Debug\NAudio.xml
+E:\NT106\finalproject\API Profile\Login\bin\Debug\NAudio.Asio.xml
+E:\NT106\finalproject\API Profile\Login\bin\Debug\NAudio.Core.xml
+E:\NT106\finalproject\API Profile\Login\bin\Debug\NAudio.Midi.xml
+E:\NT106\finalproject\API Profile\Login\bin\Debug\NAudio.Wasapi.xml
+E:\NT106\finalproject\API Profile\Login\bin\Debug\NAudio.WinForms.xml
+E:\NT106\finalproject\API Profile\Login\bin\Debug\NAudio.WinMM.xml
+E:\NT106\finalproject\API Profile\Login\bin\Debug\Newtonsoft.Json.xml
+E:\NT106\finalproject\API Profile\Login\bin\Debug\RestSharp.xml
+E:\NT106\finalproject\API Profile\Login\bin\Debug\System.Buffers.xml
+E:\NT106\finalproject\API Profile\Login\bin\Debug\System.CodeDom.xml
+E:\NT106\finalproject\API Profile\Login\bin\Debug\System.Memory.xml
+E:\NT106\finalproject\API Profile\Login\bin\Debug\System.Numerics.Vectors.xml
+E:\NT106\finalproject\API Profile\Login\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+E:\NT106\finalproject\API Profile\Login\bin\Debug\System.Security.AccessControl.xml
+E:\NT106\finalproject\API Profile\Login\bin\Debug\System.Security.Principal.Windows.xml
+E:\NT106\finalproject\API Profile\Login\bin\Debug\System.Text.Encodings.Web.xml
+E:\NT106\finalproject\API Profile\Login\bin\Debug\System.Text.Json.xml
+E:\NT106\finalproject\API Profile\Login\bin\Debug\System.Threading.Tasks.Extensions.xml
+E:\NT106\finalproject\API Profile\Login\bin\Debug\System.ValueTuple.xml
+E:\NT106\finalproject\API Profile\Login\obj\Debug\Music.csproj.AssemblyReference.cache
+E:\NT106\finalproject\API Profile\Login\obj\Debug\Music.album_item.resources
+E:\NT106\finalproject\API Profile\Login\obj\Debug\Music.Artist.resources
+E:\NT106\finalproject\API Profile\Login\obj\Debug\Music.CardSong.resources
+E:\NT106\finalproject\API Profile\Login\obj\Debug\Music.cardTrack.resources
+E:\NT106\finalproject\API Profile\Login\obj\Debug\Music.ChangePassword.resources
+E:\NT106\finalproject\API Profile\Login\obj\Debug\Music.ConfirmCode_Register.resources
+E:\NT106\finalproject\API Profile\Login\obj\Debug\Music.Test.resources
+E:\NT106\finalproject\API Profile\Login\obj\Debug\Music.ForgotPassword.resources
+E:\NT106\finalproject\API Profile\Login\obj\Debug\Music.Form1.resources
+E:\NT106\finalproject\API Profile\Login\obj\Debug\Music.Homepage.resources
+E:\NT106\finalproject\API Profile\Login\obj\Debug\Music.List.resources
+E:\NT106\finalproject\API Profile\Login\obj\Debug\Music.Login.resources
+E:\NT106\finalproject\API Profile\Login\obj\Debug\Music.AddPlaylist.resources
+E:\NT106\finalproject\API Profile\Login\obj\Debug\Music.CardControl.resources
+E:\NT106\finalproject\API Profile\Login\obj\Debug\Music.Properties.Resources.resources
+E:\NT106\finalproject\API Profile\Login\obj\Debug\Music.Register.resources
+E:\NT106\finalproject\API Profile\Login\obj\Debug\Music.ucPlaylists.resources
+E:\NT106\finalproject\API Profile\Login\obj\Debug\Music.ucProfile.resources
+E:\NT106\finalproject\API Profile\Login\obj\Debug\Music.USCAlbum.resources
+E:\NT106\finalproject\API Profile\Login\obj\Debug\Music.USCPlay.resources
+E:\NT106\finalproject\API Profile\Login\obj\Debug\Music.USCRankMusic.resources
+E:\NT106\finalproject\API Profile\Login\obj\Debug\Music.USCSinger.resources
+E:\NT106\finalproject\API Profile\Login\obj\Debug\Music.VerificationCode.resources
+E:\NT106\finalproject\API Profile\Login\obj\Debug\Music.csproj.GenerateResource.cache
+E:\NT106\finalproject\API Profile\Login\obj\Debug\Music.csproj.CoreCompileInputs.cache
+E:\NT106\finalproject\API Profile\Login\obj\Debug\Music.csproj.Up2Date
+E:\NT106\finalproject\API Profile\Login\obj\Debug\Music.exe
+E:\NT106\finalproject\API Profile\Login\obj\Debug\Music.pdb
+D:\NT106\NT106\Login\bin\Debug\Music.exe
+D:\NT106\NT106\Login\bin\Debug\MaterialSkin.dll
+D:\NT106\NT106\Login\bin\Debug\Music.exe.config
+D:\NT106\NT106\Login\bin\Debug\CloudinaryDotNet.dll
+D:\NT106\NT106\Login\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+D:\NT106\NT106\Login\bin\Debug\Microsoft.Win32.Registry.dll
+D:\NT106\NT106\Login\bin\Debug\NAudio.Asio.dll
+D:\NT106\NT106\Login\bin\Debug\NAudio.Core.dll
+D:\NT106\NT106\Login\bin\Debug\NAudio.dll
+D:\NT106\NT106\Login\bin\Debug\NAudio.Midi.dll
+D:\NT106\NT106\Login\bin\Debug\NAudio.Wasapi.dll
+D:\NT106\NT106\Login\bin\Debug\NAudio.WinForms.dll
+D:\NT106\NT106\Login\bin\Debug\NAudio.WinMM.dll
+D:\NT106\NT106\Login\bin\Debug\Newtonsoft.Json.dll
+D:\NT106\NT106\Login\bin\Debug\RestSharp.dll
+D:\NT106\NT106\Login\bin\Debug\System.Buffers.dll
+D:\NT106\NT106\Login\bin\Debug\System.CodeDom.dll
+D:\NT106\NT106\Login\bin\Debug\System.Memory.dll
+D:\NT106\NT106\Login\bin\Debug\System.Numerics.Vectors.dll
+D:\NT106\NT106\Login\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+D:\NT106\NT106\Login\bin\Debug\System.Security.AccessControl.dll
+D:\NT106\NT106\Login\bin\Debug\System.Security.Principal.Windows.dll
+D:\NT106\NT106\Login\bin\Debug\System.Text.Encodings.Web.dll
+D:\NT106\NT106\Login\bin\Debug\System.Text.Json.dll
+D:\NT106\NT106\Login\bin\Debug\System.Threading.Tasks.Extensions.dll
+D:\NT106\NT106\Login\bin\Debug\System.ValueTuple.dll
+D:\NT106\NT106\Login\bin\Debug\CloudinaryDotNet.xml
+D:\NT106\NT106\Login\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+D:\NT106\NT106\Login\bin\Debug\Microsoft.Win32.Registry.xml
+D:\NT106\NT106\Login\bin\Debug\NAudio.xml
+D:\NT106\NT106\Login\bin\Debug\NAudio.Asio.xml
+D:\NT106\NT106\Login\bin\Debug\NAudio.Core.xml
+D:\NT106\NT106\Login\bin\Debug\NAudio.Midi.xml
+D:\NT106\NT106\Login\bin\Debug\NAudio.Wasapi.xml
+D:\NT106\NT106\Login\bin\Debug\NAudio.WinForms.xml
+D:\NT106\NT106\Login\bin\Debug\NAudio.WinMM.xml
+D:\NT106\NT106\Login\bin\Debug\Newtonsoft.Json.xml
+D:\NT106\NT106\Login\bin\Debug\RestSharp.xml
+D:\NT106\NT106\Login\bin\Debug\System.Buffers.xml
+D:\NT106\NT106\Login\bin\Debug\System.CodeDom.xml
+D:\NT106\NT106\Login\bin\Debug\System.Memory.xml
+D:\NT106\NT106\Login\bin\Debug\System.Numerics.Vectors.xml
+D:\NT106\NT106\Login\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+D:\NT106\NT106\Login\bin\Debug\System.Security.AccessControl.xml
+D:\NT106\NT106\Login\bin\Debug\System.Security.Principal.Windows.xml
+D:\NT106\NT106\Login\bin\Debug\System.Text.Encodings.Web.xml
+D:\NT106\NT106\Login\bin\Debug\System.Text.Json.xml
+D:\NT106\NT106\Login\bin\Debug\System.Threading.Tasks.Extensions.xml
+D:\NT106\NT106\Login\bin\Debug\System.ValueTuple.xml
+D:\NT106\NT106\Login\obj\Debug\Music.csproj.AssemblyReference.cache
+D:\NT106\NT106\Login\obj\Debug\Music.album_item.resources
+D:\NT106\NT106\Login\obj\Debug\Music.Artist.resources
+D:\NT106\NT106\Login\obj\Debug\Music.CardSong.resources
+D:\NT106\NT106\Login\obj\Debug\Music.cardTrack.resources
+D:\NT106\NT106\Login\obj\Debug\Music.ChangePassword.resources
+D:\NT106\NT106\Login\obj\Debug\Music.ConfirmCode_Register.resources
+D:\NT106\NT106\Login\obj\Debug\Music.Test.resources
+D:\NT106\NT106\Login\obj\Debug\Music.ForgotPassword.resources
+D:\NT106\NT106\Login\obj\Debug\Music.Form1.resources
+D:\NT106\NT106\Login\obj\Debug\Music.Homepage.resources
+D:\NT106\NT106\Login\obj\Debug\Music.List.resources
+D:\NT106\NT106\Login\obj\Debug\Music.Login.resources
+D:\NT106\NT106\Login\obj\Debug\Music.AddPlaylist.resources
+D:\NT106\NT106\Login\obj\Debug\Music.CardControl.resources
+D:\NT106\NT106\Login\obj\Debug\Music.Properties.Resources.resources
+D:\NT106\NT106\Login\obj\Debug\Music.Register.resources
+D:\NT106\NT106\Login\obj\Debug\Music.Search.resources
+D:\NT106\NT106\Login\obj\Debug\Music.ucPlaylists.resources
+D:\NT106\NT106\Login\obj\Debug\Music.ucProfile.resources
+D:\NT106\NT106\Login\obj\Debug\Music.USCAlbum.resources
+D:\NT106\NT106\Login\obj\Debug\Music.USCPlay.resources
+D:\NT106\NT106\Login\obj\Debug\Music.USCRankMusic.resources
+D:\NT106\NT106\Login\obj\Debug\Music.USCSinger.resources
+D:\NT106\NT106\Login\obj\Debug\Music.VerificationCode.resources
+D:\NT106\NT106\Login\obj\Debug\Music.csproj.GenerateResource.cache
+D:\NT106\NT106\Login\obj\Debug\Music.csproj.CoreCompileInputs.cache
+D:\NT106\NT106\Login\obj\Debug\Music.csproj.Up2Date
+D:\NT106\NT106\Login\obj\Debug\Music.exe
+D:\NT106\NT106\Login\obj\Debug\Music.pdb
+D:\NT106\NT106\Login\bin\Debug\Music.pdb
+D:\NT106\NT106\Login\obj\Debug\Music.KaraokeRoom.resources
+E:\NT106\finalproject\Project\NT106\Music\bin\Debug\Music.exe.config
+E:\NT106\finalproject\Project\NT106\Music\bin\Debug\Music.exe
+E:\NT106\finalproject\Project\NT106\Music\bin\Debug\Music.pdb
+E:\NT106\finalproject\Project\NT106\Music\bin\Debug\CloudinaryDotNet.dll
+E:\NT106\finalproject\Project\NT106\Music\bin\Debug\MaterialSkin.dll
+E:\NT106\finalproject\Project\NT106\Music\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+E:\NT106\finalproject\Project\NT106\Music\bin\Debug\Microsoft.Win32.Registry.dll
+E:\NT106\finalproject\Project\NT106\Music\bin\Debug\NAudio.Asio.dll
+E:\NT106\finalproject\Project\NT106\Music\bin\Debug\NAudio.Core.dll
+E:\NT106\finalproject\Project\NT106\Music\bin\Debug\NAudio.dll
+E:\NT106\finalproject\Project\NT106\Music\bin\Debug\NAudio.Midi.dll
+E:\NT106\finalproject\Project\NT106\Music\bin\Debug\NAudio.Wasapi.dll
+E:\NT106\finalproject\Project\NT106\Music\bin\Debug\NAudio.WinForms.dll
+E:\NT106\finalproject\Project\NT106\Music\bin\Debug\NAudio.WinMM.dll
+E:\NT106\finalproject\Project\NT106\Music\bin\Debug\Newtonsoft.Json.dll
+E:\NT106\finalproject\Project\NT106\Music\bin\Debug\RestSharp.dll
+E:\NT106\finalproject\Project\NT106\Music\bin\Debug\System.Buffers.dll
+E:\NT106\finalproject\Project\NT106\Music\bin\Debug\System.CodeDom.dll
+E:\NT106\finalproject\Project\NT106\Music\bin\Debug\System.Memory.dll
+E:\NT106\finalproject\Project\NT106\Music\bin\Debug\System.Numerics.Vectors.dll
+E:\NT106\finalproject\Project\NT106\Music\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+E:\NT106\finalproject\Project\NT106\Music\bin\Debug\System.Security.AccessControl.dll
+E:\NT106\finalproject\Project\NT106\Music\bin\Debug\System.Security.Principal.Windows.dll
+E:\NT106\finalproject\Project\NT106\Music\bin\Debug\System.Text.Encodings.Web.dll
+E:\NT106\finalproject\Project\NT106\Music\bin\Debug\System.Text.Json.dll
+E:\NT106\finalproject\Project\NT106\Music\bin\Debug\System.Threading.Tasks.Extensions.dll
+E:\NT106\finalproject\Project\NT106\Music\bin\Debug\System.ValueTuple.dll
+E:\NT106\finalproject\Project\NT106\Music\bin\Debug\CloudinaryDotNet.xml
+E:\NT106\finalproject\Project\NT106\Music\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+E:\NT106\finalproject\Project\NT106\Music\bin\Debug\Microsoft.Win32.Registry.xml
+E:\NT106\finalproject\Project\NT106\Music\bin\Debug\NAudio.xml
+E:\NT106\finalproject\Project\NT106\Music\bin\Debug\NAudio.Asio.xml
+E:\NT106\finalproject\Project\NT106\Music\bin\Debug\NAudio.Core.xml
+E:\NT106\finalproject\Project\NT106\Music\bin\Debug\NAudio.Midi.xml
+E:\NT106\finalproject\Project\NT106\Music\bin\Debug\NAudio.Wasapi.xml
+E:\NT106\finalproject\Project\NT106\Music\bin\Debug\NAudio.WinForms.xml
+E:\NT106\finalproject\Project\NT106\Music\bin\Debug\NAudio.WinMM.xml
+E:\NT106\finalproject\Project\NT106\Music\bin\Debug\Newtonsoft.Json.xml
+E:\NT106\finalproject\Project\NT106\Music\bin\Debug\RestSharp.xml
+E:\NT106\finalproject\Project\NT106\Music\bin\Debug\System.Buffers.xml
+E:\NT106\finalproject\Project\NT106\Music\bin\Debug\System.CodeDom.xml
+E:\NT106\finalproject\Project\NT106\Music\bin\Debug\System.Memory.xml
+E:\NT106\finalproject\Project\NT106\Music\bin\Debug\System.Numerics.Vectors.xml
+E:\NT106\finalproject\Project\NT106\Music\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+E:\NT106\finalproject\Project\NT106\Music\bin\Debug\System.Security.AccessControl.xml
+E:\NT106\finalproject\Project\NT106\Music\bin\Debug\System.Security.Principal.Windows.xml
+E:\NT106\finalproject\Project\NT106\Music\bin\Debug\System.Text.Encodings.Web.xml
+E:\NT106\finalproject\Project\NT106\Music\bin\Debug\System.Text.Json.xml
+E:\NT106\finalproject\Project\NT106\Music\bin\Debug\System.Threading.Tasks.Extensions.xml
+E:\NT106\finalproject\Project\NT106\Music\bin\Debug\System.ValueTuple.xml
+E:\NT106\finalproject\Project\NT106\Music\bin\Debug\Interop.WMPLib.dll
+E:\NT106\finalproject\Project\NT106\Music\bin\Debug\AxInterop.WMPLib.dll
+E:\NT106\finalproject\Project\NT106\Music\obj\Debug\Music.csproj.AssemblyReference.cache
+E:\NT106\finalproject\Project\NT106\Music\obj\Debug\Interop.WMPLib.dll
+E:\NT106\finalproject\Project\NT106\Music\obj\Debug\AxInterop.WMPLib.dll
+E:\NT106\finalproject\Project\NT106\Music\obj\Debug\Music.csproj.ResolveComReference.cache
+E:\NT106\finalproject\Project\NT106\Music\obj\Debug\Music.album_item.resources
+E:\NT106\finalproject\Project\NT106\Music\obj\Debug\Music.Artist.resources
+E:\NT106\finalproject\Project\NT106\Music\obj\Debug\Music.CardSong.resources
+E:\NT106\finalproject\Project\NT106\Music\obj\Debug\Music.cardTrack.resources
+E:\NT106\finalproject\Project\NT106\Music\obj\Debug\Music.ChangePassword.resources
+E:\NT106\finalproject\Project\NT106\Music\obj\Debug\Music.ConfirmCode_Register.resources
+E:\NT106\finalproject\Project\NT106\Music\obj\Debug\Music.Test.resources
+E:\NT106\finalproject\Project\NT106\Music\obj\Debug\Music.ForgotPassword.resources
+E:\NT106\finalproject\Project\NT106\Music\obj\Debug\Music.Form1.resources
+E:\NT106\finalproject\Project\NT106\Music\obj\Debug\Music.Homepage.resources
+E:\NT106\finalproject\Project\NT106\Music\obj\Debug\Music.List.resources
+E:\NT106\finalproject\Project\NT106\Music\obj\Debug\Music.Login.resources
+E:\NT106\finalproject\Project\NT106\Music\obj\Debug\Music.AddPlaylist.resources
+E:\NT106\finalproject\Project\NT106\Music\obj\Debug\Music.CardControl.resources
+E:\NT106\finalproject\Project\NT106\Music\obj\Debug\Music.Properties.Resources.resources
+E:\NT106\finalproject\Project\NT106\Music\obj\Debug\Music.Register.resources
+E:\NT106\finalproject\Project\NT106\Music\obj\Debug\Music.Room.resources
+E:\NT106\finalproject\Project\NT106\Music\obj\Debug\Music.Search.resources
+E:\NT106\finalproject\Project\NT106\Music\obj\Debug\Music.ucPlaylists.resources
+E:\NT106\finalproject\Project\NT106\Music\obj\Debug\Music.ucProfile.resources
+E:\NT106\finalproject\Project\NT106\Music\obj\Debug\Music.USCAlbum.resources
+E:\NT106\finalproject\Project\NT106\Music\obj\Debug\Music.USCPlay.resources
+E:\NT106\finalproject\Project\NT106\Music\obj\Debug\Music.USCRankMusic.resources
+E:\NT106\finalproject\Project\NT106\Music\obj\Debug\Music.USCSinger.resources
+E:\NT106\finalproject\Project\NT106\Music\obj\Debug\Music.VerificationCode.resources
+E:\NT106\finalproject\Project\NT106\Music\obj\Debug\Music.csproj.GenerateResource.cache
+E:\NT106\finalproject\Project\NT106\Music\obj\Debug\Music.csproj.CoreCompileInputs.cache
+E:\NT106\finalproject\Project\NT106\Music\obj\Debug\Music.csproj.Up2Date
+E:\NT106\finalproject\Project\NT106\Music\obj\Debug\Music.exe
+E:\NT106\finalproject\Project\NT106\Music\obj\Debug\Music.pdb
+E:\NT106\finalproject\Project\NT106\Music\obj\Debug\Music.AddTrack.resources
+E:\NT106\finalproject\Project\NT106\Music\obj\Debug\Music.avtkaraoke.resources
