@@ -1,4 +1,4 @@
-# Ứng Dụng Streaming Nhạc Trực Tuyến
+![image](https://github.com/user-attachments/assets/dade8720-95dd-41ba-9085-749063873d5b)# Ứng Dụng Streaming Nhạc Trực Tuyến
 
 Dự án cuối kỳ môn **Lập trình mạng căn bản** (NT106.022.ANTT) - Nhóm 2. Ứng dụng nghe nhạc trực tuyến với nhiều tính năng.
 
@@ -28,4 +28,8 @@ Dự án cuối kỳ môn **Lập trình mạng căn bản** (NT106.022.ANTT) - 
 Tạo issue hoặc pull request để góp ý.  
 
 ## Nhóm
-- Nhóm 2 - NT106.022.ANTT  
+- Nhóm 2 - NT106.022.ANTT
+  
+## Visualization 
+
+![image](https://github.com/user-attachments/assets/0948cc10-b852-480f-bf1b-4190f5ff1262)
